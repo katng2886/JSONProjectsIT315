@@ -1,9 +1,5 @@
 {
   "DigitalEyes": [
-    {  "productName": "Water bottle Cap",
-      "productDescription": "Great Bottle to take along a run",
-      "productPrice": "$10",
-      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
     {"Label_name" : "How to use tap function of your Credit card?",
       "story_description" : "If you want to check whether your credit card has the tap function, try to look for this icon on your credit card. \nTo use the tap function, simply hold your card near the screen of the POS machine, and hold it for a couple second, until you hear the sound of a completed transaction.",
       "visit_link" : "https://www.mastercard.com/news/perspectives/2024/contactless-101-what-you-need-to-know-about-tap-and-go",
