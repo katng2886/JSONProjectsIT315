@@ -3,22 +3,22 @@
     {"Label_name" : "How to use tap function of your Credit card?",
       "story_description" : "If you want to check whether your credit card has the tap function, try to look for this icon on your credit card. \nTo use the tap function, simply hold your card near the screen of the POS machine, and hold it for a couple second, until you hear the sound of a completed transaction.",
       "visit_link" : "https://www.mastercard.com/news/perspectives/2024/contactless-101-what-you-need-to-know-about-tap-and-go",
-      "Picture_image": "creditcard.jpg"},
+      "Picture_image": "https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/refs/heads/master/creditcard.jpg"},
         
       {"Label_name":"How to use Facetime? ",
       "story_description" :"To make a Facetime call, you need a person's phone number and registered email address. Here are steps to make a Facetime call: \n1. Launch your facetime app, and type the person's phone number or email address. \n2. Tap the Audio Button or the Facetime button to make a call. \n3. Enjoy your call!",
       "visit_link" : "https://support.apple.com/guide/iphone/get-started-with-facetime-iphc4774d8d8/ios",
-      "Picture_image" : "facetime.jpg"},
+      "Picture_image" : "https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/refs/heads/master/facetime.jpg"},
 
       {"Label_name":"How to install or update Facebook application?",
       "story_description":"Go to the Microsoft Store if you are using Microsoft devices, or App Store if you are using Apple Devices \n1. Search Facebook application on the search box. \n2. Tap on the Facebook app and follow on-screen application.",
       "visit_link": "https://www.wikihow.com/Download-the-Facebook-Application-for-the-iPhone",
-      "Picture_image" : "facebook.jpg"},
+      "Picture_image" : "https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/refs/heads/master/facebook.jpg"},
       {
       "Label_name": "How to find coupons for your medications?",
       "story_description":"There are several coupons that you can find the help cover your medications. Here are a find website that you can use to find it: \n1. Look for GoodRx on Google and follow the on-screen instruction \n2. Type Manufacture + medication name on Google to find the coupon from the manufacture. ",
       "visit_link":"https://www.goodrx.com",
-      "Picture_image ":"deal.jpg"}
+      "Picture_image ":"https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/refs/heads/master/deal.jpg"}
   ],
   "Status": "Ok"
 }
