@@ -18,7 +18,18 @@
       {"Label_name": "How to find coupons for your medications?",
       "story_description":"There are several coupons that you can find the help cover your medications. Here are a find website that you can use to find it: \n1. Look for GoodRx on Google and follow the on-screen instruction \n2. Type Manufacture + medication name on Google to find the coupon from the manufacture. ",
       "visit_link":"https://www.goodrx.com",
-      "Picture_image":"https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/master/deal.jpg"}
-  ],
+      "Picture_image":"https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/master/deal.jpg"},
+
+      {"Label_name": "How to repair a Water-damaged iPhone?",
+        "story_description":"If you are accidentially get your iphone wet, such as going out and accidentially drop it into the pool. \nIt is common and it can happen anywhere.\nBut don't panic, here are some ways that you can save your phone: \n1.If your iPhone gets wet, power it off immediately, and dryy it oof with a lint-free absorbent cloth.\n2.Place it in a dry area and let it set for at least 48 houes. \n3. If the indicator inside the SIM card tray turns red, your iPhone has received water damage.",
+        "visit_link":"https://www.wikihow.com/Repair-an-iPhone-from-Water-Damage",
+        "Picture_image":"https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/master/phone.jpg"},
+
+      {"Label_name": "How to use the Split Screem Feature in your laptop?",
+          "story_description":"Working on a Split Screen can save you time, make your work more effective. Here are steps that help you do that:\n1.Open the two apps or windows that you want to split screen. \n2.Click and drag the title bar of one window. \n3.Drag the first window to the left edge of the screen. \n4.Release the mouse button. \n5.Click and drag the title bar of the second window. \n6.Drag the second window to the right edge of the screen.\n7.Release the mouse button",
+          "visit_link":"https://www.wikihow.com/Split-Screen-on-Dell",
+          "Picture_image":"https://raw.githubusercontent.com/katng2886/JSONProjectsIT315/master/laptop_screen.jpg"},
+    
+    ],
   "Status": "Ok"
 }
